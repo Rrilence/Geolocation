@@ -1,0 +1,22 @@
+{
+  "name": "geolocation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "homepages": "https://Rrilence.github.io/Geolocation",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html --out-dir=build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "ymaps": "^0.2.1"
+  }
+}
