@@ -25,7 +25,12 @@ The interface design is provided for various types of devices.
 
 ## **Tablet**
 <p align="center">
-<img  src="./readme_assets/Tablet.png" width="80%">
+<img  src="./readme_assets/Tablet.png" width="50%">
+</p>
+
+## **Validating the submission form and error handling**
+<p align="center">
+<img  src="./readme_assets/Error.png" width="50%">
 </p>
 
 ## I invite you to see my other projects.
